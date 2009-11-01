@@ -1,0 +1,5 @@
+
+ * Add some examples of common configuration tasks for opencore plugins.
+   Not sure if these would be commented out in configure.zcml, or each
+   put in their own topical files as a sort of documentation. 
+
